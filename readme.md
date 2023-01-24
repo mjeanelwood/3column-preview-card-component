@@ -13,7 +13,7 @@ Screenshots are available in the screenshot folder
 - Solution URL: https://github.com/mjeanelwood/3column-preview-card-component
 - Live Site URL: https://three-card-component-priview.netlify.app/
 
-## My process
+Also, links in demo lead to challenge page.
 
 ### Built with
 
@@ -23,7 +23,7 @@ Screenshots are available in the screenshot folder
 
 ### What I learned
 
-I am learning how much there is still to learn and am very excited about doing that
+I am learning how much there is still to learn and am very excited about doing that.
 
 ### Continued development
 
