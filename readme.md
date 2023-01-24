@@ -2,7 +2,7 @@
 
 This is my solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
-I am very happy to start moving out of the "tutorial" phase and branch out in my coding knowlege! I would appreciate any comments regarding how to improve my code. Thank you!
+I am very happy to start moving out of the "tutorial" phase and branch out in my coding knowlege! I would appreciate any comments regarding how to improve my code. Also, how to improve my submission of projects. Thank you!
 
 ### Screenshot
 
